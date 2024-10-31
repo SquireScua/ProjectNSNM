@@ -1,4 +1,21 @@
 # To-Do List
 - [ ] Draw maps
-- [ ] Make item search system
-- [ ] Apply time cost when acting(like searching or move to other point).
+  - [ ] Malarston Woods
+  - [ ] Farm
+  - [ ] HosPital
+  - [ ] Gelwood City
+  - [ ] Willbury City
+  - [ ] Park
+  - [ ] Gas Station
+- [x] Make item search system
+  - [ ] Random events appear when searching search points
+- [ ] Set item pool on each of search point
+- [x] Time synchronize "Searching screen" and "Bunker screen"
+- [x] Apply time cost when acting(like searching or move to other point).
+- [ ] Apply image to items, materials, icons, etc
+- [ ] Set item recipe
+  - [ ] Cost items when crafting item
+- [ ] Set food recipe
+  - [ ] Cost ingredients when crafting item
+- [ ] Item move between inventory and storage
+- [ ] Item equied and applying effect
