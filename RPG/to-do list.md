@@ -8,6 +8,7 @@
   - [ ] Park
   - [ ] Gas Station
 - [x] Make item search system
+  - [ ] Spend stress and hunger when searching search points
   - [ ] Random events appear when searching search points
 - [ ] Set item pool on each of search point
 - [x] Time synchronize "Searching screen" and "Bunker screen"
@@ -19,3 +20,4 @@
   - [ ] Cost ingredients when crafting item
 - [ ] Item move between inventory and storage
 - [ ] Item equied and applying effect
+- [ ] Applying buff system(food, event, etc).
